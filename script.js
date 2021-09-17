@@ -3,7 +3,7 @@ let phrases = [
     { text: 'посмотреть скидки на авиабилеты в Египет', image: 'https://code.s3.yandex.net/web-code/procrastinate/2.png' },
     { text: 'послушать новую говномузыку', image: 'https://code.s3.yandex.net/web-code/procrastinate/3.png' },
     { text: 'посмотреть Дудя на ютубе', image: 'https://code.s3.yandex.net/web-code/procrastinate/4.png' },
-    { text: 'полить цветы еще раз', image: 'https://code.s3.yandex.net/web-code/procrastinate/5.png' },
+    { text: 'посмотреть в книгу по CSS b JS и ничего не понять', image: 'https://code.s3.yandex.net/web-code/procrastinate/5.png' },
     { text: 'читать про зарплаты в Сан-Франциско', image: 'https://code.s3.yandex.net/web-code/procrastinate/6.png' },
     { text: 'почитать новости и испортить себе настроение', image: 'https://code.s3.yandex.net/web-code/procrastinate/7.png' },
     { text: 'попасть в поток грустных песен и вспомнить все ошибки молодости', image: 'https://code.s3.yandex.net/web-code/procrastinate/8.png' },
